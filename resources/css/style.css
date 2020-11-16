@@ -1,0 +1,144 @@
+/* ________________________________________ */
+/*              BASIC SETUP                 */
+/* ________________________________________ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    background-color: #fff;
+    color: #555;
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+}
+
+/* ________________________________________ */
+/*              REUSABLE COMPONENTS         */
+/* ________________________________________ */
+
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* ____________HEADINGS_____________ */
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 250%;
+    font-weight: 300;
+    letter-spacing: 4px;
+    word-spacing: 3px;
+    margin: 0;
+    text-transform: uppercase;
+}
+h4 {
+    text-align: center;
+    color: white;
+    font-size: 110%;
+    font-weight: 300;
+    letter-spacing: 1.2px;
+    word-spacing: 2px;
+    margin: 0;
+    padding-top: 50px;
+}
+
+/* ____________BUTTONS_____________ */
+
+.btn:link,
+.btn:visited {
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 30px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 90%;
+    font-weight: 400;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    border-radius: 3px;
+    transition: background-color 0.2s, border-color 0.2s, color 0.2s;
+}
+
+.btn-ghost:link,
+.btn-ghost:visited{
+    border: 1px solid #e67e22;
+    color: #e67e22;
+}
+
+.btn-full:link,
+.btn-full:visited {
+    background-color: #e67e22;
+}
+
+.btn-ghost:hover,
+.btn-ghost:active{
+    border: 1px solid #cf6d17;
+    background-color: #cf6d17;
+    color: #ffffff;
+}
+
+.btn-full:hover,
+.btn-full:active {
+    background-color: #cf6d17;
+}
+
+/* ________________________________________ */
+/*              HEADER                      */
+/* ________________________________________ */
+
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/humberto-chavez-OEgtG8TLzMk-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.hero-text-box {
+    position: absolute;
+    width: 1140px;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.logo {
+    height: 65px;
+    width: auto;
+    float: left;
+    margin-top: 12px;
+}
+
+.main-nav {
+    float: right;
+    list-style: none;
+    margin-top: 27px;
+}
+
+.main-nav li {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.main-nav li a:link,
+.main-nav li a:visited{
+    padding: 5px 0;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.2s;
+}
+
+.main-nav li a:hover,
+.main-nav li a:active{
+    border-bottom: 2px solid #e67e22;
+}
