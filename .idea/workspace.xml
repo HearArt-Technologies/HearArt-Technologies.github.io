@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a601efe-39ac-43e6-b293-e77416c503a1" name="Default Changelist" comment="" />
+    <list default="true" id="0a601efe-39ac-43e6-b293-e77416c503a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +53,8 @@
       <workItem from="1605695017103" duration="13258000" />
       <workItem from="1605723973420" duration="8460000" />
       <workItem from="1605739378781" duration="3178000" />
+      <workItem from="1605867004049" duration="7576000" />
+      <workItem from="1605912866900" duration="7131000" />
     </task>
     <task id="LOCAL-00001" summary="3 sections added">
       <created>1605742488556</created>

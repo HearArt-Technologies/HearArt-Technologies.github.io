@@ -34,6 +34,12 @@ section {
     padding: 100px 0 80px 0;
 }
 
+.section-action-call-mvp{
+    margin: 60px 0;
+    padding: 60px 0;
+    background-color: #bebebe;
+}
+
 .box {
     padding: 1%;
 }
@@ -61,6 +67,7 @@ h2 {
     color: black;
     font-size: 180%;
     margin-top: 0px;
+    line-height: 1.4;
 }
 
 h2:after {
@@ -71,6 +78,12 @@ h2:after {
     width: 100px;
     margin: 0 auto;
     margin-top: 36px;
+}
+.h2-white-plain {
+    display: block;
+    color: black;
+    text-transform: initial;
+    text-align-all: center;
 }
 
 h3 {
@@ -95,7 +108,7 @@ h4 {
 }
 
 .h4-black {
-    text-align: left;
+    text-align:center;
     color: black;
     font-size: 110%;
     font-weight: 400;
@@ -107,9 +120,17 @@ h4 {
     text-transform: uppercase;
 }
 
+h5 {
+    text-align:center;
+    color: black;
+    font-size: 180%;
+    font-weight: 400;
+}
+
 /* ____________PARAGRAPHS__________ */
 
 .long-copy {
+    text-align:center;
     line-height: 145%;
     font-size: 85%;
     font-weight: 400;
@@ -120,6 +141,7 @@ h4 {
 /* ____________ICONS__________ */
 
 .icon-big {
+    text-align:center;
     font-size: 350%;
     display: block;
     color: #e67e22;
@@ -171,7 +193,29 @@ h4 {
     color: #ffffff;
 }
 
+.btn-full-try:link,
+.btn-full-try:visited {
+    display: inline-block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 25px;
+    text-decoration: none;
+    margin-top: 0px;
+    font-size: 90%;
+    font-weight: 400;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    border-radius: 3px;
+    background-color: #e67e22;
+    color: #ffffff;
+    transition: background-color 0.2s, border-color 0.2s, color 0.2s;
+}
 
+.btn-full-try:hover,
+.btn-full-try:active {
+    background-color: #cf6d17;
+    color: #ffffff;
+}
 
 /* ________________________________________ */
 /*              HEADER                      */
@@ -224,4 +268,21 @@ header {
 .main-nav li a:hover,
 .main-nav li a:active{
     border-bottom: 2px solid #e67e22;
+}
+
+/* ________________________________________ */
+/*              TESTIMONIALS                */
+/* ________________________________________ */
+
+blockquote {
+    padding: 2%;
+    font-style: italic;
+    line-height: 145%;
+}
+
+cite {
+    display: block;
+    font-size: 90%;
+    margin-top: 10px;
+    text-align: right;
 }
