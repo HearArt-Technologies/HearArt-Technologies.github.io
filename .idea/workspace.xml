@@ -2,6 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a601efe-39ac-43e6-b293-e77416c503a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/img/Barlagianis_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Barlagianis_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Hadjianagnostou_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Hadjianagnostou_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Hadjianastasiou_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Hadjianastasiou_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/LinkedIn_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Papadelis_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Papadelis_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Pastiadis_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Pastiadis_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Spyridis_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Spyridis_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Syleos_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Trantidis_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Trash_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Trash_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Trouka_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Trouka_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Zacharakis_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/Zacharakis_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/image 17.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -33,6 +56,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -40,6 +64,16 @@
       <recent name="C:\Users\GP\Documents\GitHub\HearART_Tec\heararttec.github.io\vendors\fonts" />
       <recent name="C:\Users\GP\Documents\GitHub\HearART_Tec\heararttec.github.io\vendors\css" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.jpg" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:9437/style.css/index.jpg" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.jpg" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,6 +89,11 @@
       <workItem from="1605739378781" duration="3178000" />
       <workItem from="1605867004049" duration="7576000" />
       <workItem from="1605912866900" duration="7131000" />
+      <workItem from="1605920170410" duration="257000" />
+      <workItem from="1605920985384" duration="404000" />
+      <workItem from="1605993585838" duration="4485000" />
+      <workItem from="1606001128634" duration="3187000" />
+      <workItem from="1606004513288" duration="4129000" />
     </task>
     <task id="LOCAL-00001" summary="3 sections added">
       <created>1605742488556</created>
@@ -79,14 +118,90 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1605653052829" />
-    <state x="520" y="207" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605733498981">
+    <state x="520" y="207" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606001404950">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="520" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1605733498981" />
+    <state x="520" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606001404950" />
+    <state x="499" y="152" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606005487620">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="499" y="152" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606005487620" />
+    <state x="516" y="260" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606001444474">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="516" y="260" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606001444474" />
     <state x="363" y="0" key="CommitChangelistDialog2" timestamp="1605742487600">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="363" y="0" key="CommitChangelistDialog2/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1605742487600" />
+    <state width="1478" height="242" key="GridCell.Tab.0.bottom" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.0.bottom/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.0.center" timestamp="1606004296085">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.0.center/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296085" />
+    <state width="1478" height="242" key="GridCell.Tab.0.left" timestamp="1606004296085">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.0.left/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296085" />
+    <state width="1478" height="242" key="GridCell.Tab.0.right" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.0.right/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.1.bottom" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.1.bottom/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.1.center" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.1.center/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.1.left" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.1.left/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.1.right" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.1.right/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.2.bottom" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.2.bottom/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.2.center" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.2.center/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.2.left" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.2.left/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.2.right" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.2.right/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.3.bottom" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.3.bottom/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.3.center" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.3.center/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.3.left" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.3.left/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state width="1478" height="242" key="GridCell.Tab.3.right" timestamp="1606004296086">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="242" key="GridCell.Tab.3.right/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606004296086" />
+    <state x="501" y="108" key="RollbackChangesDialog" timestamp="1606001543937">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="501" y="108" key="RollbackChangesDialog/0.0.1536.826/1920.0.1344.802@0.0.1536.826" timestamp="1606001543937" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605742541103">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
