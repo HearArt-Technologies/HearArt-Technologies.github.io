@@ -104,8 +104,10 @@ h2:after {
     text-align-all: center;
 }
 
-h3,
-.h3-light {
+h3 {
+    font-weight: 400;
+    color: black;
+    line-height: 32px;
     text-align: center;
     font-size: 95%;
     letter-spacing: 0px;
@@ -113,12 +115,12 @@ h3,
     margin: 26px 5%;
 }
 
-h3 {
-    font-weight: 400;
-    color: black;
-    line-height: 32px;
-}
 .h3-light {
+    text-align: center;
+    font-size: 95%;
+    letter-spacing: 0px;
+    word-spacing: 1px;
+    margin: 26px 5%;
     font-weight: 300;
     line-height: 30px;
 }

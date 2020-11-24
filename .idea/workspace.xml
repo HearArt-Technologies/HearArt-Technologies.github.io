@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a601efe-39ac-43e6-b293-e77416c503a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/img/Bibas_photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/Foidl_photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/Hohmann_photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/Hutter_photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/Kyriafinis_photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/Markou_photo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/img/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/resources/img/Thumbs.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +71,8 @@
       <workItem from="1606004513288" duration="4129000" />
       <workItem from="1606256505836" duration="758000" />
       <workItem from="1606257277560" duration="3733000" />
+      <workItem from="1606261943916" duration="130000" />
+      <workItem from="1606262091215" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="3 sections added">
       <created>1605742488556</created>
